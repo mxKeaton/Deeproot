@@ -62,7 +62,7 @@ Chipped, Amendments, Twigs, Abstract & ReFramed
 #### 🧰 QoL Inventory and Resource Management
 Item Swapper, Carry On, Tom's Simple Storage & Inventory Profiles Next
 
-#### 📣 Broadened Soundsphere
+#### 📣 Broadened Sounds
 Sound Physics Remastered, Prescence Footseps, Auditory & Charmonium
 
 #### ✨ Striking Particles & Atmosphere
