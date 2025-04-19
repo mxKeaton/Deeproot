@@ -10,66 +10,66 @@ This modpack is designed to help you explore your creativity and enjoy everythin
 
 ## 🌺 What makes Deeproot special? 🌺
 
-#### 🍃 Living Ecosystems
+### 🍃 Living Ecosystems
 Expanded nature through redesigned and new biomes, flora and fauna
 
-#### 🍂 Stunning Visuals
+### 🍂 Stunning Visuals
 Dynamic lighting, customized shaders, adapting textures, and dynamic particles
 
-#### 🍃 Build Without Limits
+### 🍃 Build Without Limits
 Hundreds of new blocks and decorative options
 
-#### 🍂 Smarter and Harder
+### 🍂 Smarter and Harder
 Redesigned progression and mob behaviour
 
-#### 🍃 Quality of Life Galore
+### 🍃 Quality of Life Galore
 All the tweaks you wish vanilla had, from inventory and resource management, to smoother gameplay and performance
 
-#### 🍂 Exclusivity
+### 🍂 Exclusivity
 Exclusive Content developed for Deeproot
 
 
 ## 🧩 Key Feautres and their Mods 🧩
 (Just a few highlights—full list in-game!)
 
-#### 🌄 Greatly expanded World Generation
-WWOO, WF's Cave Overhaul, Cavernous & Deeper Oceans
+### 🌄 Greatly expanded World Generation 
+_[WWOO](https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld), [WF's Cave Overhaul](https://www.curseforge.com/minecraft/mc-mods/wfs-cave-overhaul), [Cavernous](https://www.curseforge.com/minecraft/data-packs/cavernous) & [Deeper Oceans](https://www.curseforge.com/minecraft/mc-mods/deeper-oceans)_
 
-#### 🌍 More striking Biomes and reworked vanilla Biomes
-Regions Unexplored, Gardens of the Dead, Deeper and Darker, Jaden's Nether Expansion, Better Nether & Better End
+### 🌍 More striking Biomes and reworked Vanilla Biomes
+_[Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored), [Gardens of the Dead](https://www.curseforge.com/minecraft/mc-mods/gardens-of-the-dead), [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker), [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion), [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether) & [Better End](https://www.curseforge.com/minecraft/mc-mods/betterend)_
 
-#### 🌿 Varying and beautiful Flora
-Immersive Weathering, Verdant & Snow! Real Magic!
+### 🌿 Varying and beautiful Flora
+_[Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric), [Verdant](https://www.curseforge.com/minecraft/mc-mods/verdant) & [Snow! Real Magic!](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic-fabric)_
 
-#### 🦊 Expanded Biodeversity
-Naturalist & Hybrid Aquatic
+### 🦊 Expanded Biodeversity
+_[Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) & [Hybrid Aquatic](https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic)_
 
-#### 🪓 Rebalanced, simplified and slowed down Progression
-Unruffled, Trim Effects & LoL's Enderite
+### 🪓 Rebalanced, simplified and slowed down Progression
+_[Unruffled](https://www.curseforge.com/minecraft/mc-mods/unruffled), [Trim Effects](https://www.curseforge.com/minecraft/mc-mods/trimseffects) & [LoL's Enderite](https://www.curseforge.com/minecraft/mc-mods/enderite-lieonlion)_
 
-#### 🧟‍♂️ Reprogrammed Mob Behaviour
-Nyf's Spiders, Mob AI Tweaks & Mobs's Attempt Parkour
+### 🧟‍♂️ Reprogrammed Mob Behaviour 
+_[Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders), [Mob AI Tweaks](https://www.curseforge.com/minecraft/mc-mods/mob-ai-tweaks) & [Mobs Attempt Parkour](https://www.curseforge.com/minecraft/mc-mods/mobs-attempt-parkour)_
 
-#### 🥕 Expanded Farming
-Farmer's Delight + Expansions & Overweight Farming
+### 🥕 Expanded Farming 
+_[Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated) + Expansions & [Overweight Farming](https://www.curseforge.com/minecraft/mc-mods/overweight-farming)_
 
-#### 🏯 Redesigned Structures
-ChoiceTheoroem's, YUNG's, Feur's & Hopo's Structures
+### 🏯 Redesigned Structures
+_[ChoiceTheoroem](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village)'s, [YUNG](https://www.curseforge.com/members/yungnickyoung/projects)'s, [Feur](https://www.curseforge.com/members/vayns/projects)'s & [Hopo](https://www.curseforge.com/members/hoponopono/projects)'s Structures_
 
-#### 🧱 Epxanded Building Palette
-Chipped, Amendments, Twigs, Abstract & ReFramed
+### 🧱 Epxanded Building Palette
+_[Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped), [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments), [Twigs](https://www.curseforge.com/minecraft/mc-mods/twigs), [Abstract](https://www.curseforge.com/minecraft/mc-mods/abstract) & [ReFramed](https://www.curseforge.com/minecraft/mc-mods/reframed)_
 
-#### 🧰 QoL Inventory and Resource Management
-Item Swapper, Carry On, Tom's Simple Storage & Inventory Profiles Next
+### 🧰 QoL Inventory and Resource Management
+_[EMI](https://www.curseforge.com/minecraft/mc-mods/emi), [Item Swapper](https://www.curseforge.com/minecraft/mc-mods/itemswapper), [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on), [Tom's Simple Storage](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric) & [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)_
 
-#### 📣 Broadened Sounds
-Sound Physics Remastered, Prescence Footseps, Auditory & Charmonium
+### 📣 Broadened Sounds
+_[Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered), [Presence Footseps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps), [Auditory](https://www.curseforge.com/minecraft/mc-mods/auditory-continued) & [Charmonium](https://www.curseforge.com/minecraft/mc-mods/charmonium)_
 
-#### ✨ Striking Particles & Atmosphere
-True Darkness, Particular, Visuality, Particle Rain, Subtle Effects & Fancy Block Particles
+### ✨ Striking Particles & Atmosphere
+_[True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness-refabricated), [Particular](https://modrinth.com/mod/particular), [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality), P[article Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain), [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) & [Fancy Block Particles](https://www.curseforge.com/minecraft/mc-mods/fbp-renewed)_
 
-#### 🙍‍♂️ Expressive Player Character
-Fresh Animations, Fresh Moves & Not Enough Animations
+### 🙍‍♂️ Expressive Player Character
+_[Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations), [Fresh Moves](https://www.curseforge.com/minecraft/texture-packs/fresh-moves) & [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)_
 
 
 
@@ -77,7 +77,7 @@ Additionally, this modpack features A LOT of different resource packs that trans
 
 
 
-## 🌳 A fantastical world is waiting you — will you shape it? 🌳
+### 🌳 A fantastical world is waiting you — will you shape it? 🌳
 
 
-(Optimized for 1.20.1 | 5GB+ RAM recommended | 350+ mods)
+```(Optimized for 1.20.1 | 5GB+ RAM recommended | 350+ mods)```
