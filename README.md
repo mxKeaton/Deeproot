@@ -1,6 +1,6 @@
 ## 🌱 Minecraft Enriched 🌱
 
-Deeproot improves Minecraft by significantly expanding the visual aspects, biodiversity and the variety of blocks. It also restructures the game experience by improving mob behavior and reworking player progression. There is much more to explore, create and build, while being more challenging and beautiful than the vanilla experience.
+Deeproot improves Minecraft by significantly expanding the visual aspects, biodiversity and block variety. It also restructures the game experience by improving mob behavior and reworking player progression. There is much more to explore, create and build, while being more challenging and beautiful than the vanilla experience.
 
 
 ## 🍀 Why should you play Deeproot? 🍀
