@@ -76,7 +76,7 @@ Additionally, this modpack features A LOT of different resource packs that trans
 ## 🌍 Recommended World Creation Settings 🌍
 ### Better X World Type
 **The Nether**
-- Doiuble the Nether Height (Amplififed)
+- Double the Nether Height (Amplififed)
 - Biome Size 24
 - Biome Height 8
 
