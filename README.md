@@ -71,13 +71,28 @@ _[True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness-refa
 ### 🙍‍♂️ Expressive Player Character
 _[Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations), [Fresh Moves](https://www.curseforge.com/minecraft/texture-packs/fresh-moves) & [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)_
 
-
-
 Additionally, this modpack features A LOT of different resource packs that transform various visual aspects of the game, while keeping the vanilla look and feel
 
+## 🌍 Recommended World Creation Settings 🌍
+### Better X World Type
+**The Nether**
+- Doiuble the Nether Height (Amplififed)
+- Biome Size 24
+- Biome Height 8
 
+**The End**
+- Custom End Terrain Generator
+- Land Biomes 24
+- Small Island Biomes 18
+- Central Biomes 16
+- Barrens 16
+- Central Void Radius 32
+
+**Experiments**
+- Enable Bundles
 
 ### 🌳 A fantastical world is waiting you — will you shape it? 🌳
 
-
 ```(Optimized for 1.20.1 | 5GB+ RAM recommended | 350+ mods)```
+
+[Credits to all Mod Ressources](https://github.com/mxKeaton/Deeproot/blob/main/Ressource_Credits.md)
