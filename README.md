@@ -95,4 +95,4 @@ Additionally, this modpack features A LOT of different resource packs that trans
 
 ```(Optimized for 1.20.1 | 5GB+ RAM recommended | 350+ mods)```
 
-[Credits to all Mod Ressources](https://github.com/mxKeaton/Deeproot/blob/main/Ressource_Credits.md)
+[Credits to all exogenous Mod Ressources](https://github.com/mxKeaton/Deeproot/blob/main/Ressource_Credits.md)
