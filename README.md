@@ -91,6 +91,9 @@ Additionally, this modpack features A LOT of different resource packs that trans
 **Experiments**
 - Enable Bundles
 
+### 💚 PLEASE provide feedback! 💚
+This is my first modpack and it is still a work in progress. I am trying to make it the best it can be and for that I need your feedback and bugreports. Help me out and post them on the [issue tracker](https://github.com/mxKeaton/Deeproot/issues) for now. Thank you very much!
+
 ### 🌳 A fantastical world is waiting you — will you shape it? 🌳
 
 ```(Optimized for 1.20.1 | 5GB+ RAM recommended | 350+ mods)```
